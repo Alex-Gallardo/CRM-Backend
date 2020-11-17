@@ -1,3 +1,3 @@
 ﻿# CRM-Backend
 
-Proyect make with NextJS
+Proyect make with GraphQL and Apollo Server
