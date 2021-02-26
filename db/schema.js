@@ -95,7 +95,6 @@ const typeDefs = gql`
     }
 
     input PedidoInput {
-
         # Para almacenar arreglos que tengan cierta forma los datos
         pedido : [ PedidoProductoInput ]
         total : Float
